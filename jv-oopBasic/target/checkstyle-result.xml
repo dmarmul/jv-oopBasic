@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/dmitry/IdeaProjects/jv-oopBasic/src/main/java/core/basesyntax/Machine.java">
+</file>
+<file name="/Users/dmitry/IdeaProjects/jv-oopBasic/src/main/java/core/basesyntax/Truck.java">
+</file>
+<file name="/Users/dmitry/IdeaProjects/jv-oopBasic/src/main/java/core/basesyntax/Bulldozer.java">
+</file>
+<file name="/Users/dmitry/IdeaProjects/jv-oopBasic/src/main/java/core/basesyntax/MainApp.java">
+</file>
+<file name="/Users/dmitry/IdeaProjects/jv-oopBasic/src/main/java/core/basesyntax/Excavator.java">
+</file>
+</checkstyle>
